@@ -6,5 +6,5 @@ print('La area del triangulo es ' + str(area_triangulo))
 
 import math
 radio = float(input('¿Cual es el radio del circulo?: '))
-area_circulo = math.pi * radio**2
+area_circulo = math.pi * (radio**2)
 print('El area del circulo es: ' + str(area_circulo))
